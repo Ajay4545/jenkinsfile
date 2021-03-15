@@ -1,0 +1,2 @@
+# jenkinsfile
+jenkins declarative syntax
